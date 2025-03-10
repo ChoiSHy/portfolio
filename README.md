@@ -9,3 +9,7 @@
 > > Back-end
 > > * Skill: JAVA / SpringBooot 2.5.6 / MySQL / AWS EC2 / AWS RDS / AWS S3
 > > * [프로젝트](https://github.com/ChoiSHy/project_LetsEatAll/tree/main)
+>
+> > 혐오표현 감지 시스템
+> > * Skill: Python / Fast API / PyTorch
+> > * [프로젝트](https://github.com/ChoiSHy/HaterSeeker/tree/main)
